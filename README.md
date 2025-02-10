@@ -2,7 +2,17 @@
 
 E Commerce App build Using Flutter. Data References using Api-Postman. Includes HomePage With a Categories of Products. Extra Pages Added MyCart and Searching Enable. Product can be added and Removed from both the HomePage and DetailedPage to My Cart.
 
+Implementation:
+ Homepage.
+ Detailspage.
+ Searchpage.
+ MyCartpage.
 
+ Data Source api: https://fakestoreapi.com/products
+ Packages: Https.
+
+ Extra Functionality: operation on cart Add&Remove.
+ 
 <img width="250" alt="Screenshot 2025-02-10 122906" src="https://github.com/user-attachments/assets/16c78d26-619d-4fae-af28-73458aafd3a5" />
 <img width="250" alt="Screenshot 2025-02-10 122934" src="https://github.com/user-attachments/assets/850accd0-897b-4d67-9657-1d83013deec0" />
 <img width="250" alt="Screenshot 2025-02-10 122953" src="https://github.com/user-attachments/assets/7a0d4a33-7394-4b99-a265-437868f4eef6" />
